@@ -1,0 +1,36 @@
+.chriscard{
+	background-image: url('https://png.pngtree.com/thumb_back/fh260/background/20221028/pngtree-merry-christmas-gift-gradient-green-background-image_1469283.jpg');
+	height: 30vh;
+	background-size: cover;
+}
+.heading{
+	color: gold;
+	font-weight: bold;
+	font-family: 'Roboto';
+	padding-top: 100px;
+}
+.chriscardbottom{
+	background-color:lightgreen;
+	height: 80vh;
+}
+.imageres{
+	width: 80px;
+	height: 80px;
+}
+.christmascard{
+	background-color: white;
+	width: 150px;
+	border-radius: 15px;
+	padding: 5px;
+	height: 150px;
+	text-align: center;
+	margin: 20px;
+}
+.chrisheading{
+	font-size: 15px;
+	font-family: 'Roboto';
+	font-weight: normal;
+}
+.chrispara{
+	font-weight: bold;
+}
